@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Cel",
+  "applicationTitle": "Cel",
+  "items": [
+    {
+      "link": null,
+      "menuName": "cel",
+      "caption": "Cel",
+      "title": "Cel",
+      "children": [
+        {
+          "link": "i-i-s-cel-причин-увольн-l",
+          "menuName": null,
+          "caption": "Причин увольн",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-cel-специалист-l",
+          "menuName": null,
+          "caption": "Специалист",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-cel-анкеты-l",
+          "menuName": null,
+          "caption": "Анкеты",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

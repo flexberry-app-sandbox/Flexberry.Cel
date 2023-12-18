@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-cel-специалист-e",
+  "editForm": "i-i-s-cel-специалист-e",
+  "external": false,
+  "caption": "Специалист",
+  "name": "IISCelСпециалистL",
+  "className": "СпециалистL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-cel-специалист",
+      "modelProjection": "СпециалистL"
+    }
+  ]
+}
